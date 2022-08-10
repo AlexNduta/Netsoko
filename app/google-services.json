@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "452401887761",
+    "project_id": "netsoko-460f2",
+    "storage_bucket": "netsoko-460f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452401887761:android:cc5e48576881b863bacfb0",
+        "android_client_info": {
+          "package_name": "com.example.netsoko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452401887761-rtvbffjmh61eseghn80e9hpdcdhpb0s0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.netsoko",
+            "certificate_hash": "2a7f25cc3ee7b3695969633a1e0deed49aa88f8f"
+          }
+        },
+        {
+          "client_id": "452401887761-smgdq9jm6rnv71qecbnacgs7vsvhuru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7q0aYUTqtxAsh_NoHKmjebZca3SlF-v8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452401887761-smgdq9jm6rnv71qecbnacgs7vsvhuru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
